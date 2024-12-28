@@ -1,7 +1,7 @@
 
 import React, { useContext } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { AppBar, Toolbar, Button, Box, IconButton, Typography } from "@mui/material";
+import { AppBar, Toolbar, Button, Box, IconButton} from "@mui/material";
 import { AuthContext } from "../context/AuthContext";
 import ticktok from '../assets/ticktokbg.png';
 
